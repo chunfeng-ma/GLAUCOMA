@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="GLAU@localhost" uuid="d418ec74-83e2-493d-b543-7cdc2a180d93">
+      <secret-storage>master_key</secret-storage>
+      <user-name>baiqing</user-name>
+    </data-source>
+  </component>
+</project>
